@@ -1,0 +1,129 @@
+;Houston Center
+23 - White Lake Ultra High:Houston Center:132.950:23:C:HOU:CTR:HOU:23:2401:2577
+24 - Leeville:Houston Center:132.170:24:C:HOU:CTR:HOU:24:2401:2577
+25 - Brookley Low:Houston Center:127.650:25:C:HOU:CTR:HOU:25:2401:2577
+26 - Woodeville High:Houston Center:128.170:26:C:HOU:CTR:HOU:26:2401:2577
+27 - Picayune Low:Houston Center:126.800:27:C:HOU:CTR:HOU:27:2401:2577
+28 - Offshore West:Houston Center:127.850:28:C:HOU:CTR:HOU:28:2401:2577
+30 - Offshore East:Houston Center:134.900:30:C:HOU:CTR:HOU:30:2401:2577
+34 - Baton Rouge Low:Houston Center:126.350:34:C:HOU:CTR:HOU:34:2401:2577
+36 - Liberty Low:Houston Center:124.700:36:C:HOU:CTR:HOU:36:2401:2577
+37 - Hattiesburg Ultra High:Houston Center:126.870:37:C:HOU:CTR:HOU:37:2401:2577
+38 - Daisetta Low:Houston Center:126.950:38:C:HOU:CTR:HOU:38:2401:2577 
+40 - Polk Low:Houston Center:120.970:40:C:HOU:CTR:HOU:40:2401:2577 
+42 - Alexandria High:Houston Center:132.700:42:C:HOU:CTR:HOU:42:2401:2577 
+43 - Trinity:Houston Center:133.800:43:C:HOU:CTR:HOU:43:2401:2577 
+46 - Houston High:Houston Center:132.770:46:C:HOU:CTR:HOU:46:2401:2577 
+49 - Lufkin Low:Houston Center:125.170:49:C:HOU:CTR:HOU:49:2401:2577 
+50 - Stonewall Low:Houston Center:134.200:50:C:HOU:CTR:HOU:50:2401:2577
+53 - Offshore Central:Houston Center:120.350:53:C:HOU:CTR:HOU:53:2401:2577
+56 - Shiner Low:Houston Center:134.600:56:C:HOU:CTR:HOU:56:2401:2577 
+58 - Brownsville Low:Houston Center:128.150:58:C:HOU:CTR:HOU:58:2401:2577 
+59 - Corpus High:Houston Center:133.750:59:C:HOU:CTR:HOU:59:2401:2577
+63 - Mobile High:Houston Center:125.770:63:C:HOU:CTR:HOU:63:2401:2577
+65 - McComb High:Houston Center:119.720:65:C:HOU:CTR:HOU:65:2401:2577
+68 - Galveston High:Houston Center:123.820:68:C:HOU:CTR:HOU:68:2401:2577
+70 - Tibby High:Houston Center:134.920:70:C:HOU:CTR:HOU:70:2401:2577
+74 - Alamo High:Houston Center:128.650:74:C:HOU:CTR:HOU:74:2401:2577
+76 - Slimm Ultra High:Houston Center:125.620:76:C:HOU:CTR:HOU:76:2401:2577
+78 - Austin High:Houston Center:126.420:78:C:HOU:CTR:HOU:78:2401:2577
+80 - Industry Low:Houston Center:132.150:80:C:HOU:CTR:HOU:80:2401:2577
+81 - Esler Ultra High:Houston Center:134.420:81:C:HOU:CTR:HOU:81:2401:2577
+82 - Bilee High:Houston Center:123.720:82:C:HOU:CTR:HOU:82:2401:2577
+83 - Cougar Low:Houston Center:128.070:83:C:HOU:CTR:HOU:83:2401:2577
+84 - SOTEX Ultra High:Houston Center:124.720:84:C:HOU:CTR:HOU:84:2401:2577
+85 - Kelly Low:Houston Center:134.950:85:C:HOU:CTR:HOU:85:2401:2577
+86 - Humble Low:Houston Center:134.800:86:C:HOU:CTR:HOU:86:2401:2577
+87 - Eagle Lake Low:Houston Center:128.600:87:C:HOU:CTR:HOU:87:2401:2577
+88 - Frio Ultra High:Houston Center:127.020:88:C:HOU:CTR:HOU:88:2401:2577
+93 - Laredo Low:Houston Center:127.800:93:C:HOU:CTR:HOU:93:2401:2577
+95 - Palacios High:Houston Center:132.370:95:C:HOU:CTR:HOU:95:2401:2577
+96 - Bergstrom Low:Houston Center:125.650:96:C:HOU:CTR:HOU:96:2401:2577
+97 - Junction High:Houston Center:132.400:97:C:HOU:CTR:HOU:97:2401:2577
+98 - Rocksprings Low:Houston Center:125.750:98:C:HOU:CTR:HOU:98:2401:2577
+
+;I90 Approach
+Houston East Approach:Houston Approach:120.050:1D:D:HOU:APP:HOU:APP:2701:2740
+Houston West Approach:Houston Approach:124.350:1N:N:HOU:APP:HOU:APP:2701:2740
+Houston Gulf Approach:Houston Approach:119.620:1G:G:HOU:APP:HOU:APP:2701:2740
+Houston Eagle Lake Approach:Houston Approach:119.170:1X:X:HOU:APP:HOU:APP:2701:2740
+Houston Final North Approach:Houston Approach:119.100:1A:A:HOU:APP:HOU:APP:2701:2740
+Houston Final Center Approach:Houston Approach:120.650:1I:I:HOU:APP:HOU:APP:2701:2740
+Houston Final South Approach:Houston Approach:134.000:1O:O:HOU:APP:HOU:APP:2701:2740
+Houston Hobby Final Approach:Houston Approach:133.050:1H:H:HOU:APP:HOU:APP:2701:2740
+Houston Beaumont Satellite Approach:Houston Approach:121.300:1J:J:HOU:APP:HOU:APP:2701:2740
+Houston College Satellite Approach:Houston Approach:134.300:1U:U:HOU:APP:HOU:APP:2701:2740
+Houston Industry Satellite Approach:Houston Approach:124.220:1Z:Z:HOU:APP:HOU:APP:2701:2740
+Houston Lakeside Satellite Approach:Houston Approach:123.800:1P:P:HOU:APP:HOU:APP:2701:2740
+Houston Tomball Satellite Approach:Houston Approach:119.700:1R:R:HOU:APP:HOU:APP:2701:2740
+Houston Sanjac Satellite Approach:Houston Approach:124.450:1B:B:HOU:APP:HOU:APP:2701:2740
+
+;I90 Departure
+Houston North Departure:Houston Departure:132.250:1M:M:HOU:DEP:HOU:DEP:2701:2740
+Houston South Departure:Houston Departure:127.120:1L:L:HOU:DEP:HOU:DEP:2701:2740
+Houston East Departure:Houston Departure:133.600:1E:E:HOU:DEP:HOU:DEP:2701:2740
+Houston West Departure:Houston Departure:126.675:1W:W:HOU:DEP:HOU:DEP:2701:2740
+
+;GEORGE BUSH INTERCONTINENTAL
+KIAH George Bush Intercontinental Clearance Delivery:Houston Delivery:128.100:BC:L:IAH:DEL:IAH:DEL:2741:2777
+KIAH George Bush Intercontinental Ground East:Houston Ground:118.575:BU:R:IAH:GND:IAH:GND:E:2741:2777
+KIAH George Bush Intercontinental Ground West:Houston Ground:121.700:BT:R:IAH:GND:IAH:GND:W:2741:2777
+KIAH George Bush Intercontinental Ramp North:Houston Metering:130.825:BP:RN:IAH:GND:IAH:GND:RN:2741:2777
+KIAH George Bush Intercontinental Ramp West:Houston Ground:121.625:BQ:BR:IAH:GND:IAH:GND:RW:2741:2777
+KIAH George Bush Intercontinental Ramp East:Houston Ground:131.275:BR:BP:IAH:GND:IAH:GND:RE:2741:2777
+KIAH George Bush Intercontinental Ground Metering:Houston Ground:119.950:BM:GM:IAH:GND:IAH:GND:GM:2741:2777
+KIAH George Bush Intercontinental North Tower:Houston Tower:120.725:BN:T:IAH:TWR:IAH:N:2741:2777
+KIAH George Bush Intercontinental Center Tower:Houston Tower:125.350:BC:T:IAH:TWR:IAH:C:2741:2777
+KIAH George Bush Intercontinental South Tower:Houston Tower:135.150:BS:T:IAH:TWR:IAH:S:2741:2777
+KIAH George Bush Intercontinental West Tower:Houston Tower:127.300:BW:T:IAH:TWR:IAH:W:2741:2777
+
+;WILLIAM P. HOBBY
+KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450:HC:L:HOU:DEL:HOU:DEL:4701:4777
+KHOU William P. Hobby Ground:Hobby Ground:121.900:HR:R:HOU:GND:HOU:GND:4701:4777
+KHOU William P. Hobby Tower:Hobby Tower:118.700:HL:T:HOU:TWR:HOU:TWR:4701:4777
+
+;EASTERWOOD COLLEGE STATION
+KCLL Easterwood College Station Ground:Easterwood Ground:128.700:CR:R:CLL:GND:CLL:GND:7441:7477
+KCLL Easterwood College Station Tower:Easterwood Tower:118.500:CL:T:CLL:TWR:CLL:TWR:7441:7477
+
+;DAVID WAYNE HOOKS MEMORIAL
+KDWH David Wayne Hooks Memorial Clearance Delivery:Hooks Delivery:119.450:DC:L:DWH:DEL:DWH:DEL:7441:7477
+KDWH David Wayne Hooks Memorial Ground:Hooks Ground:121.800:DR:R:DWH:GND:DWH:GND:7441:7477
+KDWH David Wayne Hooks Memorial Tower:Hooks Tower:118.400:DL:T:DWH:TWR:DWH:TWR:7441:7477
+
+;ELLINGTON
+KEFD Ellington Ground:Ellington Ground:121.600:ER:R:EFD:GND:EFD:GND:7441:7477
+KEFD Ellington Tower:Ellington Tower:126.050:ET:T:EFD:TWR:EFD:T:7441:7477
+
+;SUGAR LAND REGIONAL
+KSGR Sugar Land Regional Ground:Sugarland Ground:121.400:UR:R:SGR:GND:SGR:GND:7441:7477
+KSGR Sugar Land Regional Tower:Sugarland Tower:118.650:UT:T:SGR:TWR:SGR:TWR:7441:7477
+
+;CONROE NORTH HOUSTON REGIONAL AIRPORT
+KCXO Conroe North Houston Regional Ground:Lone Star Ground:120.450:CR:R:CXO:GND:CXO:GND:7441:7477
+KCXO Conroe North Houston Regional Tower:Lone Star Tower:124.125:CL:T:CXO:TWR:CXO:TWR:7441:7477
+
+;GALVESTON SCHOLES INTERNATIONAL
+KGLS Galveston Scholes International Ground:Scholes Ground:118.625:GR:R:GLS:GND:GLS:GND:7441:7477
+KGLS Galveston Scholes International Tower:Scholes Tower:120.575:GL:T:GLS:TWR:GLS:TWR:7441:7477
+
+;BEAUMONT JACK BROOKS REGIONAL AIRPORT
+KBPT Beaumont Jack Brooks Regional Clearance Delivery:Beaumont Delivery:118.300:JC:L:BPT:DEL:BPT:L:7441:7477
+KBPT Beaumont Jack Brooks Regional Ground:Beaumont Ground:121.900:JR:R:BPT:GND:BPT:GND:7441:7477
+KBPT Beaumont Jack Brooks Regional Tower:Beaumont Tower:119.500:JL:T:BPT:TWR:BPT:TWR:7441:7477
+
+; Houston Executive
+KTME Houston Executive Ground:Executive Ground:132.075:XG:G:TME:GND:TME:G:7441:7477
+KTME Houston Executive Tower:Executive Tower:126.975:XL:L:TME:TWR:TME:L:7441:7477
+
+;Neighboring TRACONS
+Lake Charles West Approach:Lake Charles Approach:119.350:LCW:A:LCH:APP:LCH:APP:7441:7477
+Lake Charles East Approach:Lake Charles Approach:119.800:LCE:A:LCH:APP:LCH:APP:7441:7477
+
+KAUS Austin West Approach:Austin Approach:119.000:AW:W:AUS:APP:AUS:APP:4604:4627
+KAUS Austin East Approach:Austin Approach:127.225:AE:E:AUS:APP:AUS:APP:4604:4627
+KAUS Austin South Approach:Austin Approach:120.875:AS:S:AUS:APP:AUS:APP:4604:4627
+KAUS Austin Final Approach:Austin Approach:125.325:AF:F:AUS:APP:AUS:APP:4604:4627
+
+ACT_APP:Waco Approach:127.650:W1L:A:ACT:APP:ACT:APP:6200:6277
+GRK_APP:Gray Approach:120.070:K1A:G:GRK:APP:GRK:APP:6200:6277
