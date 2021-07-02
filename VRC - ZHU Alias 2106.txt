@@ -4935,10 +4935,11 @@ CATEGORIES
  
 .BITERF .FF SHYNR BOCCK ISU BITER ISHOV BASTO 
  
-.BITERCTR .MSG ZHU_IDS *** BITER 9 ::: Non-RNAV ::: Expect vectors to final approach course at or prior to BASTO ::: A$altim(KAUS) 
+.BITERCTR .MSG ZHU_IDS *** BITER 9 ::: Non-RNAV ::: [ALL FLOWS] Cross BITER @ 12k ::: A$altim(KAUS) 
  
 .BITERAPP .MSG ZHU_IDS *** BITER 9 ::: Non-RNAV ::: Expect vectors to final approach course at or prior to BASTO ::: A$altim(KAUS) 
  
+.TBITERCTR Cross WLEEE at 12,000. The Austin Altimeter A$altim(KAUS)
 
 .BLEWE .FD AUS_BLEWE 
  
@@ -4948,9 +4949,12 @@ CATEGORIES
  
 .BLEWEF .FF WINDU BLEWE SEWZY CWK 
  
-.BLEWECTR .MSG ZHU_IDS *** BLEWE 4 ::: Non-RNAV :::  ::: A$altim(KAUS) 
+.BLEWECTR .MSG ZHU_IDS *** BLEWE 4 ::: Non-RNAV ::: [ALL FLOWS] SEWZY @ 13k ::: A$altim(KAUS) 
  
 .BLEWEAPP .MSG ZHU_IDS *** BLEWE 4 ::: Non-RNAV ::: Expect vectors at or prior to CWK ::: A$altim(KAUS) 
+
+.TBLEWECTR Cross SEWZY at 13,000. The Austin Altimeter A$altim(KAUS)
+
 
  ;AUS DXEEE 
  
@@ -4963,13 +4967,21 @@ CATEGORIES
  
 .DXEEEF .FF HFMAN GYTON DOBBY THELM HOOLR NILEE SKEWT VIDAA PUDDY ORINT DXEE BAAAB SMILN PLANX FAACE DBORD LIPSS STNSN TATAU TRPPN SNOTT 
  
-.DXEEECTR .MSG ZHU_IDS *** DXEEE 1 ::: RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
+.DXEEECTR .MSG ZHU_IDS *** DXEEE 2 ::: RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
  
-.DXEEEAPP .MSG ZHU_IDS *** DXEEE 1 ::: RNAV ::: [SOUTH FLOW] VECTORS from SNOTT. [NORTH FLOW] VECTORS from TATAU. ::: A$altim(KAUS) 
+.DXEEEAPP .MSG ZHU_IDS *** DXEEE 2 ::: RNAV ::: [SOUTH FLOW] At TRPPN, Cleared RNAV Z [NORTH FLOW] At LIPSS Cleared RNAV Z. ::: A$altim(KAUS) 
  
-.TDXEEECTRN .AUS Landing North. Altimeter A$altim(KAUS) 
+.TDXEEECTRS Descend via the DXEEE2 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing South.
  
-.TDXEEEAPPN .Altimeter A$altim(KAUS) 
+.TDXEEECTRN Descend via the DXEEE2 Arrival, the Austin Altimeter A$altim(KAUS) Austin Landing North.
+
+.TDXEEEAPPSL At TRPPN, Cleared RNAV Z Runway 18L Approach.
+
+.TDXEEEAPPSR At TRPPN, Cleared RNAV Z Runway 18R Approach.
+
+.TDXEEEAPPNL At LIPSS, Cleared RNAV Z Runway 36L Approach.
+
+.TDXEEEAPPNR At LIPSS, Cleared RNAV Z Runway 36R Approach.
  
 ;AUS KALLA 
  
@@ -4982,7 +4994,7 @@ CATEGORIES
  
 .KALLAF .FF KALLA 
  
-.KALLACTR .MSG ZHU_IDS *** KALLA 4 ::: Non-RNAV ::: [SOUTH FLOW] TRPPN @ 6k. [NORTH FLOW] LIPSS @ 4k. ::: A$altim(KAUS) 
+.KALLACTR .MSG ZHU_IDS *** KALLA 4 ::: Non-RNAV ::: [ALL FLOWS] KALLA @ 10,000. ::: A$altim(KAUS) 
  
 .KALLAAPP .MSG ZHU_IDS *** KALLA 4 ::: Non-RNAV ::: Vectors to KAUS,KGTU,K3R9 at or before CWK ::: A$altim(KAUS) 
  
