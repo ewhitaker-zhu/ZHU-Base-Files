@@ -87,7 +87,7 @@ KIAH George Bush Intercontinental West Tower:Houston Tower:127.300:BW:T:IAH:TWR:
 ***************************
 ;WILLIAM P. HOBBY
 KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450:HL:L:HOU:DEL:HOU:DEL:2501:2535
-KHOU William P. Hobby Ground:Hobby Ground:121.900AHR:R:HOU:GND:HOU:GND:2501:2535
+KHOU William P. Hobby Ground:Hobby Ground:121.900:AHR:R:HOU:GND:HOU:GND:2501:2535
 KHOU William P. Hobby Tower:Hobby Tower:118.700:HT:T:HOU:TWR:HOU:TWR:2501:2535
 
 ;EASTERWOOD COLLEGE STATION
