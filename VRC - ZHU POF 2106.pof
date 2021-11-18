@@ -287,6 +287,11 @@ KTME Houston Executive Ground:Executive Ground:132.075:AXG:G:TME:GND:TME:G:2536:
 KTME Houston Executive Tower:Executive Tower:126.975:AXL:L:TME:TWR:TME:L:2536:2550
 
 ***************************
+;Austin Executive
+KEDC Executive Ground:Executive Ground:119.125:UDR:R:EDC:GND:EDC:GND:4604:4657
+KEDC Executive Tower:Executive Tower:120.225:UDT:T:EDC:TWR:EDC:TWR:4604:4657
+
+***************************
 ;POLK AIRFORCE AUX FIELD
 KPOE Polk AAF Ground:Polk Ground:121.800:PPR:R:POE:GND:POE:GND:4751:4756
 KPOE Polk AAF Tower:Polk Tower:119.000:PPT:T:POE:TWR:POE:TWR:4751:4756
