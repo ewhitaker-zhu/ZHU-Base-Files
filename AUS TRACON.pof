@@ -1,4 +1,6 @@
+***************************
 ;Houston Center
+***************************
 23 - White Lake Ultra High:Houston Center:132.950:23:C:HOU:CTR:HOU:23:7300:7477
 24 - Leeville:Houston Center:132.175:24:C:HOU:CTR:HOU:24:7300:7477
 25 - Brookley Low:Houston Center:127.650:25:C:HOU:CTR:HOU:25:7300:7477
@@ -8,7 +10,7 @@
 30 - Offshore East:Houston Center:134.900:30:C:HOU:CTR:HOU:30:7300:7477
 34 - Baton Rouge Low:Houston Center:126.350:34:C:HOU:CTR:HOU:34:7300:7477
 36 - Liberty Low:Houston Center:124.700:36:C:HOU:CTR:HOU:36:7300:7477
-37 - Hattiesburg Ultra High:Houston Center:126.870:37:C:HOU:CTR:HOU:37:7300:7477
+37 - Hattiesburg Ultra High:Houston Center:126.875:37:C:HOU:CTR:HOU:37:7300:7477
 38 - Daisetta Low:Houston Center:126.950:38:C:HOU:CTR:HOU:38:7300:7477 
 40 - Polk Low:Houston Center:120.975:40:C:HOU:CTR:HOU:40:7300:7477 
 42 - Alexandria High:Houston Center:132.700:42:C:HOU:CTR:HOU:42:7300:7477 
@@ -22,15 +24,15 @@
 59 - Corpus High:Houston Center:133.750:59:C:HOU:CTR:HOU:59:7300:7477
 63 - Mobile High:Houston Center:125.775:63:C:HOU:CTR:HOU:63:7300:7477
 65 - McComb High:Houston Center:119.725:65:C:HOU:CTR:HOU:65:7300:7477
-68 - Galveston High:Houston Center:123.820:68:C:HOU:CTR:HOU:68:7300:7477
-70 - Tibby High:Houston Center:134.920:70:C:HOU:CTR:HOU:70:7300:7477
+68 - Galveston High:Houston Center:123.825:68:C:HOU:CTR:HOU:68:7300:7477
+70 - Tibby High:Houston Center:134.925:70:C:HOU:CTR:HOU:70:7300:7477
 74 - Alamo High:Houston Center:128.650:74:C:HOU:CTR:HOU:74:7300:7477
-76 - Slimm Ultra High:Houston Center:125.620:76:C:HOU:CTR:HOU:76:7300:7477
-78 - Austin High:Houston Center:126.420:78:C:HOU:CTR:HOU:78:7300:7477
+76 - Slimm Ultra High:Houston Center:125.625:76:C:HOU:CTR:HOU:76:7300:7477
+78 - Austin High:Houston Center:126.425:78:C:HOU:CTR:HOU:78:7300:7477
 80 - Industry Low:Houston Center:132.150:80:C:HOU:CTR:HOU:80:7300:7477
 81 - Esler Ultra High:Houston Center:134.425:81:C:HOU:CTR:HOU:81:7300:7477
 82 - Bilee High:Houston Center:123.725:82:C:HOU:CTR:HOU:82:7300:7477
-83 - Cougar Low:Houston Center:128.070:83:C:HOU:CTR:HOU:83:7300:7477
+83 - Cougar Low:Houston Center:128.075:83:C:HOU:CTR:HOU:83:7300:7477
 84 - SOTEX Ultra High:Houston Center:124.725:84:C:HOU:CTR:HOU:84:7300:7477
 85 - Kelly Low:Houston Center:134.950:85:C:HOU:CTR:HOU:85:7300:7477
 86 - Humble Low:Houston Center:134.800:86:C:HOU:CTR:HOU:86:7300:7477
@@ -41,27 +43,57 @@
 96 - Bergstrom Low:Houston Center:125.650:96:C:HOU:CTR:HOU:96:7300:7477
 97 - Junction High:Houston Center:132.400:97:C:HOU:CTR:HOU:97:7300:7477
 98 - Rocksprings Low:Houston Center:125.750:98:C:HOU:CTR:HOU:98:7300:7477
+***************************
+;Houston Oceanic
+72 - Houston Oceanic East Flight Service Station:Houston Radio:135.775:72:C:ZHU:CTR:ZHU:CTR:7300:7477
+79 - Houston Oceanic West Flight Service Station:Houston Radio:132.650:79:C:ZHU:CTR:ZHU:CTR:7300:7477
 
+***************************
+;I90 Approach
+Houston East Approach:Houston Approach:120.050:AID:D:I90:APP:I90:APP:2400:2450
+Houston West Approach:Houston Approach:124.350:AIN:N:HOU:APP:I90:APP:2400:2450
+Houston Gulf Approach:Houston Approach:119.625:AIG:G:I90:APP:I90:APP:2400:2450
+Houston Eagle Lake Approach:Houston Approach:119.175:AIX:X:I90:APP:I90:APP:2400:2450
+Houston Final North Approach:Houston Approach:119.100:AIA:A:I90:APP:I90:APP:2400:2450
+Houston Final Center Approach:Houston Approach:120.650:AII:I:I90:APP:I90:APP:2400:2450
+Houston Final South Approach:Houston Approach:134.000:AIO:O:I90:APP:I90:APP:2400:2450
+Houston Hobby Final Approach:Houston Approach:133.050:AIH:H:I90:APP:I90:APP:2400:2450
+Houston Beaumont Satellite Approach:Houston Approach:121.300:AIJ:J:I90:APP:I90:APP:2400:2450
+Houston College Satellite Approach:Houston Approach:134.300:AIU:U:I90:APP:I90:APP:2400:2450
+Houston Industry Satellite Approach:Houston Approach:124.225:AIZ:Z:I90:APP:I90:APP:2400:2450
+Houston Lakeside Satellite Approach:Houston Approach:123.800:AIP:P:I90:APP:I90:APP:2400:2450
+Houston Tomball Satellite Approach:Houston Approach:119.700:AIR:R:I90:APP:I90:APP:2400:2450
+Houston Sanjac Satellite Approach:Houston Approach:124.450:AIB:B:I90:APP:I90:APP:2400:2450
+
+***************************
+;I90 Departure
+Houston North Departure:Houston Departure:132.250:AIM:M:I90:DEP:I90:DEP:2400:2450
+Houston South Departure:Houston Departure:127.125:AIL:L:I90:DEP:I90:DEP:2400:2450
+Houston East Departure:Houston Departure:133.600:AIE:E:I90:DEP:I90:DEP:2400:2450
+Houston West Departure:Houston Departure:126.675:AIW:W:I90:DEP:I90:DEP:2400:2450
+
+
+***************************
 ;AUSTIN BERGSTROM INTERNATIONAL
-KAUS Austin Bergstrom International Clearance Delivery:Austin Delivery:125.500:BC:L:AUS:DEL:AUS:DEL:4604:4657
-KAUS Austin Bergstrom International Ground:Austin Ground:121.900:BA:R:AUS:GND:AUS:GND:4500:4560
-KAUS Austin Bergstrom International East Ground:Austin Ground:121.900:BA:R:AUS:GND:AUS:GND:E:4500:4560
-KAUS Austin Bergstrom International West Ground:Austin Ground:121.700:BB:R:AUS:GND:AUS:GND:W:4500:4560
-KAUS Austin Bergstrom International Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:4500:4560
-KAUS Austin Bergstrom International East Tower:Austin Tower:121.000:BE:T:AUS:TWR:AUS:TWR:E:4500:4560
-KAUS Austin Bergstrom International West Tower:Austin Tower:118.225:BW:T:AUS:TWR:AUS:TWR:W:4500:4560
-KAUS Austin West Approach:Austin Approach:119.000:AW:W:AUS:APP:AUS:APP:4500:4560
-KAUS Austin East Approach:Austin Approach:127.225:AE:E:AUS:APP:AUS:APP:4500:4560
-KAUS Austin South Approach:Austin Approach:120.875:AS:S:AUS:APP:AUS:APP:4500:4560
-KAUS Austin Final Approach:Austin Approach:125.325:AF:F:AUS:APP:AUS:APP:4500:4560
+KAUS Austin Bergstrom International Clearance Delivery:Austin Delivery:125.500:UAC:L:AUS:DEL:AUS:DEL:4604:4627
+KAUS Austin Bergstrom International Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:4604:4627
+KAUS Austin Bergstrom International East Ground:Austin Ground:121.900:UAA:R:AUS:GND:AUS:GND:E:4604:4627
+KAUS Austin Bergstrom International West Ground:Austin Ground:121.700:UAB:R:AUS:GND:AUS:GND:W:4604:4627
+KAUS Austin Bergstrom International Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:4604:4627
+KAUS Austin Bergstrom International East Tower:Austin Tower:121.000:UAE:T:AUS:TWR:AUS:TWR:E:4604:4627
+KAUS Austin Bergstrom International West Tower:Austin Tower:118.225:UAW:T:AUS:TWR:AUS:TWR:W:4604:4627
+KAUS Austin West Approach:Austin Approach:119.000:AW:W:AUS:APP:AUS:APP:4604:4627
+KAUS Austin East Approach:Austin Approach:127.225:AE:E:AUS:APP:AUS:APP:4604:4627
+KAUS Austin South Approach:Austin Approach:120.875:AS:S:AUS:APP:AUS:APP:4604:4627
+KAUS Austin Final Approach:Austin Approach:125.325:AF:F:AUS:APP:AUS:APP:4604:4627
 
 ;GEORGETOWN
-KGTU Georgetown Ground:Georgetown Ground:119.125:UGR:R:GTU:GND:GTU:GND:4604:4657
-KGTU Georgetown Tower:Georgetown Tower:120.225:UGT:T:GTU:TWR:GTU:TWR:4604:4657
+KGTU Georgetown Ground:Georgetown Ground:119.125:UGR:R:GTU:GND:GTU:GND:7441:7477
+KGTU Georgetown Tower:Georgetown Tower:120.225:UGT:T:GTU:TWR:GTU:TWR:7441:7477
 
 ;Austin Executive
-KEDC Executive Ground:Executive Ground:119.450:UDR:R:EDC:GND:EDC:GND:4604:4657
-KEDC Executive Tower:Executive Tower:120.300:UDT:T:EDC:TWR:EDC:TWR:4604:4657
+KEDC Executive Ground:Executive Ground:119.450:UDR:R:EDC:GND:EDC:GND:7441:7477
+KEDC Executive Tower:Executive Tower:120.300:UDT:T:EDC:TWR:EDC:TWR:7441:7477
 
 ;San Marcos
 KHYI San Marcos Ground:San Marcos Ground:120.125:SR:R:HYI:GND:HYI:GND:4604:4657
@@ -69,32 +101,12 @@ KHYI San Marcos Tower:San Marcos Tower:126.825:ST:T:HYI:TWR:HYI:TWR:4604:4657
 
 Neighboring Facilities
 
-;I90 Approach
-Houston East Approach:Houston Approach:120.050:1D:D:I90:APP:I90:APP:2400:2450
-Houston West Approach:Houston Approach:124.350:1N:N:HOU:APP:I90:APP:2400:2450
-Houston Gulf Approach:Houston Approach:119.625:1G:G:I90:APP:I90:APP:2400:2450
-Houston Eagle Lake Approach:Houston Approach:119.175:1X:X:I90:APP:I90:APP:2400:2450
-Houston Final North Approach:Houston Approach:119.100:1IA:A:I90:APP:I90:APP:2400:2450
-Houston Final Center Approach:Houston Approach:120.650:1I:I:I90:APP:I90:APP:2400:2450
-Houston Final South Approach:Houston Approach:134.000:1O:O:I90:APP:I90:APP:2400:2450
-Houston Hobby Final Approach:Houston Approach:133.050:1H:H:I90:APP:I90:APP:2400:2450
-Houston Beaumont Satellite Approach:Houston Approach:121.300:1J:J:I90:APP:I90:APP:2400:2450
-Houston College Satellite Approach:Houston Approach:134.300:1U:U:I90:APP:I90:APP:2400:2450
-Houston Industry Satellite Approach:Houston Approach:124.225:1Z:Z:I90:APP:I90:APP:2400:2450
-Houston Lakeside Satellite Approach:Houston Approach:123.800:1P:P:I90:APP:I90:APP:2400:2450
-Houston Tomball Satellite Approach:Houston Approach:119.700:1R:R:I90:APP:I90:APP:2400:2450
-Houston Sanjac Satellite Approach:Houston Approach:124.450:1B:B:I90:APP:I90:APP:2400:2450
-
-***************************
-;I90 Departure
-Houston North Departure:Houston Departure:132.250:1M:M:I90:DEP:I90:DEP:2400:2450
-Houston South Departure:Houston Departure:127.125:1L:L:I90:DEP:I90:DEP:2400:2450
-Houston East Departure:Houston Departure:133.600:1E:E:I90:DEP:I90:DEP:2400:2450
-Houston West Departure:Houston Departure:126.675:1W:W:I90:DEP:I90:DEP:2400:2450
-
-San Antonio Northeast Approach:San Antonio Approach:124.450:SN:N:SAT:APP:SAT:APP:4581:4639
-San Antonio Southeast Approach:San Antonio Approach:125.700:SE:S:SAT:APP:SAT:APP:4581:4639
-San Antonio Southwest Approach:San Antonio Approach:118.050:SS:S:SAT:APP:SAT:APP:4581:4639
-San Antonio Northwest Approach:San Antonio Approach:125.100:SW:S:SAT:APP:SAT:APP:4581:4639
-
+;SAN ANTONIO
+KSAT San Antonio International Clearance Delivery:San Antonio Delivery:126.700:SSL:L:SAT:DEL:SAT:DEL:7401:7440
+KSAT San Antonio International Ground:San Antonio Ground:121.900:SSR:R:SAT:GND:SAT:GND:7401:7440
+KSAT San Antonio International Tower:San Antonio Tower:119.800:SST:T:SAT:TWR:SAT:TWR:7401:7440
+San Antonio Northeast Approach:San Antonio Approach:124.450:SN:N:SAT:APP:SAT:APP:7401:7440
+San Antonio Southeast Approach:San Antonio Approach:125.700:SE:S:SAT:APP:SAT:APP:7401:7440
+San Antonio Southwest Approach:San Antonio Approach:118.050:SS:S:SAT:APP:SAT:APP:7401:7440
+San Antonio Northwest Approach:San Antonio Approach:125.100:SW:S:SAT:APP:SAT:APP:7401:7440
 GRK_APP:Gray Approach:120.070:K1A:G:GRK:APP:GRK:APP:6200:6277
