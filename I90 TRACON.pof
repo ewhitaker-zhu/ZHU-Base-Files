@@ -8,7 +8,7 @@
 30 - Offshore East:Houston Center:134.900:30:C:HOU:CTR:HOU:30:7300:7477
 34 - Baton Rouge Low:Houston Center:126.350:34:C:HOU:CTR:HOU:34:7300:7477
 36 - Liberty Low:Houston Center:124.700:36:C:HOU:CTR:HOU:36:7300:7477
-37 - Hattiesburg Ultra High:Houston Center:126.870:37:C:HOU:CTR:HOU:37:7300:7477
+37 - Hattiesburg Ultra High:Houston Center:126.875:37:C:HOU:CTR:HOU:37:7300:7477
 38 - Daisetta Low:Houston Center:126.950:38:C:HOU:CTR:HOU:38:7300:7477 
 40 - Polk Low:Houston Center:120.975:40:C:HOU:CTR:HOU:40:7300:7477 
 42 - Alexandria High:Houston Center:132.700:42:C:HOU:CTR:HOU:42:7300:7477 
@@ -22,15 +22,15 @@
 59 - Corpus High:Houston Center:133.750:59:C:HOU:CTR:HOU:59:7300:7477
 63 - Mobile High:Houston Center:125.775:63:C:HOU:CTR:HOU:63:7300:7477
 65 - McComb High:Houston Center:119.725:65:C:HOU:CTR:HOU:65:7300:7477
-68 - Galveston High:Houston Center:123.820:68:C:HOU:CTR:HOU:68:7300:7477
-70 - Tibby High:Houston Center:134.920:70:C:HOU:CTR:HOU:70:7300:7477
+68 - Galveston High:Houston Center:123.825:68:C:HOU:CTR:HOU:68:7300:7477
+70 - Tibby High:Houston Center:134.925:70:C:HOU:CTR:HOU:70:7300:7477
 74 - Alamo High:Houston Center:128.650:74:C:HOU:CTR:HOU:74:7300:7477
-76 - Slimm Ultra High:Houston Center:125.620:76:C:HOU:CTR:HOU:76:7300:7477
-78 - Austin High:Houston Center:126.420:78:C:HOU:CTR:HOU:78:7300:7477
+76 - Slimm Ultra High:Houston Center:125.625:76:C:HOU:CTR:HOU:76:7300:7477
+78 - Austin High:Houston Center:126.425:78:C:HOU:CTR:HOU:78:7300:7477
 80 - Industry Low:Houston Center:132.150:80:C:HOU:CTR:HOU:80:7300:7477
 81 - Esler Ultra High:Houston Center:134.425:81:C:HOU:CTR:HOU:81:7300:7477
 82 - Bilee High:Houston Center:123.725:82:C:HOU:CTR:HOU:82:7300:7477
-83 - Cougar Low:Houston Center:128.070:83:C:HOU:CTR:HOU:83:7300:7477
+83 - Cougar Low:Houston Center:128.075:83:C:HOU:CTR:HOU:83:7300:7477
 84 - SOTEX Ultra High:Houston Center:124.725:84:C:HOU:CTR:HOU:84:7300:7477
 85 - Kelly Low:Houston Center:134.950:85:C:HOU:CTR:HOU:85:7300:7477
 86 - Humble Low:Houston Center:134.800:86:C:HOU:CTR:HOU:86:7300:7477
@@ -52,7 +52,7 @@ Houston East Approach:Houston Approach:120.050:1D:D:I90:APP:I90:APP:2400:2450
 Houston West Approach:Houston Approach:124.350:1N:N:HOU:APP:I90:APP:2400:2450
 Houston Gulf Approach:Houston Approach:119.625:1G:G:I90:APP:I90:APP:2400:2450
 Houston Eagle Lake Approach:Houston Approach:119.175:1X:X:I90:APP:I90:APP:2400:2450
-Houston Final North Approach:Houston Approach:119.100:1IA:A:I90:APP:I90:APP:2400:2450
+Houston Final North Approach:Houston Approach:119.100:1I:A:I90:APP:I90:APP:2400:2450
 Houston Final Center Approach:Houston Approach:120.650:1I:I:I90:APP:I90:APP:2400:2450
 Houston Final South Approach:Houston Approach:134.000:1O:O:I90:APP:I90:APP:2400:2450
 Houston Hobby Final Approach:Houston Approach:133.050:1H:H:I90:APP:I90:APP:2400:2450
@@ -86,8 +86,8 @@ KIAH George Bush Intercontinental West Tower:Houston Tower:127.300:BW:T:IAH:TWR:
 
 ***************************
 ;WILLIAM P. HOBBY
-KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450:HL:L:HOU:DEL:HOU:DEL:2501:2535
-KHOU William P. Hobby Ground:Hobby Ground:121.900:AHR:R:HOU:GND:HOU:GND:2501:2535
+KHOU William P. Hobby Clearance Delivery:Hobby Delivery:125.450:HL:D:HOU:DEL:HOU:DEL:2501:2535
+KHOU William P. Hobby Ground:Hobby Ground:121.900:HR:R:HOU:GND:HOU:GND:2501:2535
 KHOU William P. Hobby Tower:Hobby Tower:118.700:HT:T:HOU:TWR:HOU:TWR:2501:2535
 
 ;EASTERWOOD COLLEGE STATION
@@ -125,8 +125,8 @@ KTME Houston Executive Ground:Executive Ground:132.075:XG:G:TME:GND:TME:G:7441:7
 KTME Houston Executive Tower:Executive Tower:126.975:XL:L:TME:TWR:TME:L:7441:7477
 
 ;Neighboring TRACONS
-Lake Charles West Approach:Lake Charles Approach:119.350:LCW:A:LCH:APP:LCH:APP:7441:7477
-Lake Charles East Approach:Lake Charles Approach:119.800:LCE:A:LCH:APP:LCH:APP:7441:7477
+Lake Charles West Approach:Lake Charles Approach:119.350:LCW:W:LCH:APP:LCH:APP:7441:7477
+Lake Charles East Approach:Lake Charles Approach:119.800:LCE:E:LCH:APP:LCH:APP:7441:7477
 
 KAUS Austin West Approach:Austin Approach:119.000:AW:W:AUS:APP:AUS:APP:4604:4627
 KAUS Austin East Approach:Austin Approach:127.225:AE:E:AUS:APP:AUS:APP:4604:4627
